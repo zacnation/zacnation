@@ -10,7 +10,7 @@
 <h3 align="left">Web Dev Training:</h3>
 <p align="left">
   9-week full-time intensive coding bootcamp learning HTML, CSS, Bootstrap, Ruby, JavaScript ES6,
-  SQL, git, GitHub, Heroku, and Ruby on Rails. Designed, implemented and shipped to
+  SQL, git, GitHub, Heroku, and Ruby on Rails. Designed, implemented, and shipped to
   production a clone of Airbnb and a Rails prototype of "Mind Mission", a mindfulness training game for 9 to 11-year-olds.
 </p>
 
