@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hi, I'm Zac Nation 👋</h1>
-<h3 align="center">A junior full-stack developer</h3>
+<h3 align="center">A Junior Full-Stack Developer</h3>
 
 - 🔭 I’m currently working on **my personal portfolio website**
 
-- 🌱 I’m currently learning **JavaScript and React**
+- 🌱 I’m currently learning **TypeScript and React**
 
-- 👯 I’m looking to collaborate on **multiple small projects to boost my full-stack experience!**
+- 👯 I’m looking to collaborate on **multiple, small projects to boost my full-stack experience!**
 
 <h3 align="left">Web Dev Training:</h3>
 <p align="left">
