@@ -36,4 +36,5 @@
 <a href="https://linkedin.com/in/zacnation" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zacnation" height="30" width="40" /></a>
 </p>
 
-![Zac's GitHub stats](https://github-readme-stats.vercel.app/api?username=zacnation&show_icons=true&theme=graywhite&hide=stars,issues)
+![Zac's GitHub stats](https://github-readme-stats.vercel.app/api?username=zacnation&show_icons=true&theme=panda)
+[![GitHub Streak](https://streak-stats.demolab.com?user=zacnation&theme=panda)](https://git.io/streak-stats)
