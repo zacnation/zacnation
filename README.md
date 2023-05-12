@@ -33,5 +33,5 @@
 
 <h3 align="left">My Stats</h3>
 
-![Zac's GitHub stats](https://github-readme-stats.vercel.app/api?username=zacnation&show_icons=true&theme=graywhite)
+![Zac's GitHub stats](https://github-readme-stats.vercel.app/api?username=zacnation&show_icons=true&theme=graywhite&hide=stars,issues)
 [![GitHub Streak](https://streak-stats.demolab.com?user=zacnation&theme=graywhite&card_width=467)](https://git.io/streak-stats)
