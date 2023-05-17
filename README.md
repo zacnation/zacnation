@@ -11,7 +11,7 @@
 <p align="left">
   I have recently graduated from Le Wagon, a 9-week full-time intensive coding bootcamp teaching HTML, CSS, Bootstrap, Ruby, JavaScript ES6,
   SQL, git, GitHub, Heroku, and Ruby on Rails. During the bootcamp I designed, implemented, and shipped to
-  production a clone of Airbnb and a Rails prototype of "Mind Mission", a mindfulness training game for 9 to 11-year-olds.
+  production a clone of Airbnb and a Rails prototype of <a href="https://github.com/zacnation/Mind_Mission" target="_blank">Mind Mission</a>, a mindfulness training game for 9 to 11-year-olds.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -38,10 +38,3 @@
 ![Zac's GitHub stats](https://github-readme-stats.vercel.app/api?username=zacnation&show_icons=true&theme=graywhite&border_color=D3D2D2&hide=stars,issues)
 <br>
 [![GitHub Streak](https://streak-stats.demolab.com?user=zacnation&theme=graywhite&card_width=467&border=D3D2D2)](https://git.io/streak-stats)
-
-<hr />
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zacnation&repo=TypeScript-Weather-API&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zacnation&repo=react-todo-list&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zacnation&repo=rails-restaurants-plus&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zacnation&repo=rails-authentication&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
