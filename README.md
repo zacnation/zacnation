@@ -38,3 +38,10 @@
 ![Zac's GitHub stats](https://github-readme-stats.vercel.app/api?username=zacnation&show_icons=true&theme=graywhite&border_color=D3D2D2&hide=stars,issues)
 <br>
 [![GitHub Streak](https://streak-stats.demolab.com?user=zacnation&theme=graywhite&card_width=467&border=D3D2D2)](https://git.io/streak-stats)
+
+<hr />
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zacnation&repo=TypeScript-Weather-API&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zacnation&repo=react-todo-list&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zacnation&repo=rails-restaurants-plus&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zacnation&repo=rails-authentication&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
