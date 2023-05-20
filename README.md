@@ -36,5 +36,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zacnation&layout=compact&theme=graywhite)](https://github.com/zacnation/github-readme-stats)
 <br>
 ![Zac's GitHub stats](https://github-readme-stats.vercel.app/api?username=zacnation&show_icons=true&theme=graywhite&border_color=D3D2D2&hide=stars,issues)
-<br>
-[![GitHub Streak](https://streak-stats.demolab.com?user=zacnation&theme=graywhite&card_width=467&border=D3D2D2)](https://git.io/streak-stats)
