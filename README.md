@@ -5,8 +5,6 @@
 
 - I’m currently learning **TypeScript and React**
 
-- I’m looking to collaborate on **multiple, small projects to boost my full-stack experience!**
-
 <h3 align="left">Web Dev Training:</h3>
 <p align="left">
   I have recently graduated from Le Wagon, a 9-week full-time intensive coding bootcamp teaching HTML, CSS, Bootstrap, Ruby, JavaScript ES6,
