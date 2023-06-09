@@ -3,7 +3,7 @@
 
 - I’m currently working on **my personal portfolio website**
 
-- I’m currently learning **TypeScript and React**
+- I’m currently learning **TypeScript, React, and C#**
 
 <h3 align="left">Web Dev Training:</h3>
 <p align="left">
