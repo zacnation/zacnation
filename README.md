@@ -29,14 +29,10 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 </p>
 
-<!-- <h3 align="left">My Stats</h3>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zacnation&layout=compact&theme=graywhite)](https://github.com/zacnation/github-readme-stats)
-<br>
-![Zac's GitHub stats](https://github-readme-stats.vercel.app/api?username=zacnation&show_icons=true&theme=graywhite&border_color=D3D2D2&hide=stars,issues) -->
-
 <h3 align="left">My Stats</h3>
 
-<img align="left" width="47%" src="https://github-readme-stats-zacnation.vercel.app/api?username=zacnation&show_icons=true&theme=graywhite&border_color=D3D2D2&hide=stars,issues" />
+[![Top Langs](https://github-readme-stats-664x-hjg87hoam-zacnation.vercel.app/api/top-langs/?username=zacnation&layout=compact&theme=graywhite)](https://github.com/zacnation/github-readme-stats)
 
-<img align="right" width="47%" src="https://streak-stats.demolab.com?user=zacnation&theme=graywhite&card_width=467&border=D3D2D2" />
+[![Zac's GitHub stats](https://github-readme-stats-664x-hjg87hoam-zacnation.vercel.app/api?username=zacnation&show_icons=true&theme=graywhite&border_color=D3D2D2&hide=stars,issues)](https://github.com/zacnation/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=zacnation&theme=graywhite&card_width=467&border=D3D2D2)](https://git.io/streak-stats)
