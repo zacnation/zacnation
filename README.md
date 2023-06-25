@@ -3,16 +3,16 @@
 
 - I’m currently working on **my personal portfolio website**
 
-- I’m currently learning **TypeScript, React, and C#**
+- I’m currently learning **MongoDB and Express**
 
-<h3 align="left">Web Dev Training:</h3>
+<h3 align="left">Web Dev Training</h3>
 <p align="left">
   I have recently graduated from Le Wagon, a 9-week full-time intensive coding bootcamp teaching HTML, CSS, Bootstrap, Ruby, JavaScript ES6,
   SQL, git, GitHub, Heroku, and Ruby on Rails. During the bootcamp I designed, implemented, and shipped to
   production a clone of Airbnb and a Rails prototype of <a href="https://github.com/zacnation/Mind_Mission" target="_blank">Mind Mission</a>, a mindfulness training game for 9 to 11-year-olds.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50px" />
