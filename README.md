@@ -3,7 +3,7 @@
 
 - I’m currently working on **my personal portfolio website**
 
-- I’m currently learning **MongoDB and Express**
+- I’m currently learning **MongoDB, Express, and Jest**
 
 <h3 align="left">Web Dev Training</h3>
 <p align="left">
@@ -33,6 +33,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40px" />
 </p>
 
 
