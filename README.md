@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Zac Nation 👋</h1>
-<h3 align="center">A Junior Full-Stack Developer</h3>
+<h3 align="center">A Junior Full-Stack Web Developer</h3>
 
 - I’m currently working on **my personal portfolio website**
 
@@ -35,7 +35,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="40px" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Netlify_logo_%282%29.svg" width="100px" />
 </p>
 
 
