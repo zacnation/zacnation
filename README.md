@@ -44,4 +44,4 @@
 
 [![Zac's GitHub stats](https://github-readme-stats-664x-hjg87hoam-zacnation.vercel.app/api?username=zacnation&show_icons=true&theme=graywhite&border_color=D3D2D2&hide=stars,issues)](https://github.com/zacnation/github-readme-stats)
 
-<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=zacnation&theme=graywhite&card_width=467&border=D3D2D2)](https://git.io/streak-stats) -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=zacnation&theme=graywhite&card_width=467&border=D3D2D2)](https://git.io/streak-stats)
